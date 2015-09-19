@@ -1,3 +1,4 @@
+what do I need to do to change anything?
 import System.CPUTime
 import Text.Printf
 
@@ -20,6 +21,7 @@ a x y = x + y
 
 -- funktioniert nicht mit Listen, weil nur bis WHN ausgewertet wird und diese schon so vorliegen
 func :: Int -> Int
+edited with vim!!!
 func 0 = 0
 func n = 1 + func (n - 1)
 
