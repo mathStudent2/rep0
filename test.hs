@@ -1,5 +1,3 @@
-newest change
-newly inserted with vimmmmm
 import System.CPUTime
 import Text.Printf
 
